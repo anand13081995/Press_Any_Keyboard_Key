@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    width: 50%;
+    text-align: center;
+    border: 2px solid gray;
+    background-color: rgb(118, 229, 118);
+    margin-left: 350px;
+    margin-top: 100px;
+
+}
+
+#keyPressDisplay, #keyCodeDisplay {
+    margin: 20px 0;
+    font-size: 24px;
+}
